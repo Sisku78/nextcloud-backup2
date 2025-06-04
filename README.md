@@ -144,3 +144,7 @@ MIT — Úsalo, modifícalo y mejora.
 ## 🤝 Contribuciones
 
 Pull requests bienvenidas si mejoras seguridad, compatibilidad o portabilidad.
+
+## 📄 Documentación adicional
+
+- [Extra: Configuración de Rclone SFTP con QNAP](Rclone_SFTP_QNAP_Setup.md)
